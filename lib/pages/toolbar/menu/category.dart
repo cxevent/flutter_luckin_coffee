@@ -1,4 +1,4 @@
-import 'package:color_dart/HexColor.dart';
+import 'package:color_dart/color_dart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_luckin_coffee/jsonserialize/goods_category/data.dart';
 import 'package:flutter_luckin_coffee/utils/global.dart';
